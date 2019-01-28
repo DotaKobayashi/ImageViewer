@@ -1,0 +1,11 @@
+{
+    "name": "imageviewer",
+    "version": "1.0.0",
+    "main": "imageviewer.js",
+    "repository": {
+      "type": "git",
+      "url": "git+ssh://github.com:DotaKobayashi/ImageViewer.git"
+    },
+    "author": "https://github.com/s-yadav/ImageViewer/blob/master/MIT-LICENSE.txt",
+    "license": "MIT"
+  }
